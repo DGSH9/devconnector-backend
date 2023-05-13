@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://dgsh12345:dgsh12345@cluster0.soznd.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecretKey" :"JWT_SECRET_KEY"
+}
